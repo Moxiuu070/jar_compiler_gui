@@ -1,0 +1,11 @@
+# Ignore build folder
+/build/
+
+# Ignore the compiled executable
+*.exe
+
+# Ignore the compiled folder
+/compiled/
+
+# Ignore pyinstaller spec file (if you don't want to track it)
+*.spec
