@@ -1,4 +1,4 @@
 build/
-*.exe
+jar_compiler_GUI.exe
 compiled/
-*.spec
+jar_compiler_GUI.spec
