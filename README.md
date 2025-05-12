@@ -16,5 +16,8 @@ install from [Releases](https://github.com/Moxiuu070/jar_compiler_gui/tags)
 2. pick file destination
 3. check "compiled" folder to see the compiled file
 
+### Report Bugs
+Report any bugs [here](https://github.com/Moxiuu070/jar_compiler_gui/issues/new)
+
 ### License
 This project is licensed under the [MIT License](https://github.com/Moxiuu070/jar_compiler_gui/blob/main/LICENSE) - see the LICENSE file for details.
